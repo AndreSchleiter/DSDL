@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "TEAM.html",
+    "currentPage": "index.html",
     "versionFirst": "2.9.10",
     "versionPublish": "4.6.2",
     "name": "DIE SCHULE DES LEBENS",
@@ -92,7 +92,7 @@
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "text-align": "left",
-              "color": "#c9151c",
+              "color": "#ffffff",
               "font-size": "30px"
             },
             "P": {
@@ -116,8 +116,8 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#27aae0",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0.8"
           },
           "title": "Wie zufrieden sind Sie mit <br>Ihrer Arbeit?<br>Wollen Sie sich weiter entwickeln?<br>Vielleicht ein eigenes Projekt starten?&nbsp;<br>Aber Sie wissen nicht wie?<br>Dann lassen Sie sich doch helfen!<br><br><br><br><br>",
           "text": "",
@@ -248,7 +248,7 @@
             "overlayOpacity": 0.5
           },
           "headerAlign": "left",
-          "header": "Neustart-Workshop",
+          "header": "Neustart-Workshop: Was bringt er Ihnen?<br>",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
@@ -263,7 +263,7 @@
             }
           },
           "title1": "Die berufliche Entwicklung bewerten",
-          "caption1": "Die persönliche und berufliche Entwicklung anschauen, um Faktoren für Motivation und Zufriedenheit zu erkennen.&nbsp;",
+          "caption1": "Sie blicken auf persönliche und berufliche Entwicklung, um Faktoren für Motivation und Zufriedenheit zu erkennen.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -278,7 +278,7 @@
             }
           },
           "title2": "Energiequellen für Neustart finden",
-          "caption2": "Blick auf persönliche Neigungen, Interessen und Wünsche, aus denen die Energie für einen Veränderung entsteht.&nbsp;",
+          "caption2": "Was sind Ihre Neigungen, Interessen und Wünsche, aus denen die Energie für einen Veränderung entstehen wird? Das ist das Fundament für einen Neustart &nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -293,7 +293,7 @@
             }
           },
           "title3": "Business Model You kennenlernen",
-          "caption3": "Vorstellung des Business Model You-Ansatzes, mit dem das eigene Geschäftsmodell auf einem Blatt visualisiert wird.&nbsp;",
+          "caption3": "Sie lernen, mit dem Business Model You-Ansatz zu arbeiten. So können Sie die Elemente Ihres zukünftigen Ihr Geschäftsmodells anschaulich beschreiben und auf den Prüfstand stellen.&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -307,8 +307,8 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "title4": "Vision &amp; Karriereziel definieren&nbsp;",
-          "caption4": "Die eigene Vision und das Karriereziel formulieren - das ist die Grundlage für den weiteren Weg",
+          "title4": "Mit dem Erfolgsteam<br>arbeiten&nbsp;",
+          "caption4": "Sie schließen sich mit anderen Teilnehmern zusammen, geben sich Feedback und gegenseitige Unterstützung.&nbsp;",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -323,7 +323,7 @@
             }
           },
           "title5": "Aktionsplan für <br>180 Tage&nbsp;",
-          "caption5": "Aktionsplan mit Schritten zur Umsetzung definieren. <br>Mit dem Erfolgsteam Absprachen für Regelmäßiger Check-Up, mit dem Erfolgsteam.&nbsp;<br>Prozessbegleitung durch erfahrene Trainer",
+          "caption5": "Sie definieren einen Aktionsplan mit Schritten zur Umsetzung.. <br>Mit dem Erfolgsteam treffen Sie Absprachen für regelmäßigen Check der Fortschritte. In diesem Prozess werden Sie von&nbsp;erfahrenen Trainern begleitet.&nbsp;",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
